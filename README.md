@@ -1,0 +1,2 @@
+# Using-PCA-K-means-clustering-and-logistics-regression-to-evaluate-social-media-campaigns
+In this project I used Facebook Data from Thailand to evaluate success of a social media campaign. You can go through my work to learn how to conduct Principal Component Analysis for dimensional reduction in unsupervised data, k-means clustering for segmentation and logistics regression for prediction. Available for data science consulting!
